@@ -33,3 +33,5 @@ Os commits seguirão o seguinte padrão:
 * Download: https://www.sublimetext.com/3
 * Instalar o package control que é um gerenciador dos pacotes instalados no Sublime Text. Sua função é facilitar a descoberta, instalação e atualização desses pacotes. Instalação: https://packagecontrol.io/installation
 * Usando o **package control** instalar o plugin Emmet. Com o Sublime Text aberto apertar: CTRL + SHIFT + P.
+
+## TUTORIAL EM ANDAMENTO
