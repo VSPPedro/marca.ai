@@ -20,9 +20,9 @@ Nicolas Rodrígues - Testador <br>
 * Versionamento: Github
 
 Os commits seguirão o seguinte padrão:
-* [ADD] - mensagem": Adição de recursos;
-* [UPDATE] - mensagem": Atualização de recursos;
-* [BUGFIX] - mensagem": Resolução de bug;
+* [ADD] - mensagem: Adição de recursos;
+* [UPDATE] - mensagem: Atualização de recursos;
+* [BUGFIX] - mensagem: Resolução de bug;
 
 ## Preparando o ambiente para o desenvevolvimento
 
