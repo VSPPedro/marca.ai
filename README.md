@@ -34,6 +34,10 @@ Os commits seguirão o seguinte padrão:
 * Instalar o package control que é um gerenciador dos pacotes instalados no Sublime Text. Sua função é facilitar a descoberta, instalação e atualização desses pacotes. Instalação: https://packagecontrol.io/installation
 * Usando o **package control** instalar o plugin Emmet. Com o Sublime Text aberto: CTRL + SHIFT + P. Digite Package Control Install. Enfim, digite Emmet o pacote será instalado com sucesso. Reinicie a IDE.
 
+#### Instalar PHP
+
+* TUTORIAL EM ANDAMENTO
+
 ### Desenvolvimento na nuvem utilizando a ferramenta Cloud 9
 
 #### Criar uma conta no Cloud 9
