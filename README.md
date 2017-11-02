@@ -34,4 +34,20 @@ Os commits seguirão o seguinte padrão:
 * Instalar o package control que é um gerenciador dos pacotes instalados no Sublime Text. Sua função é facilitar a descoberta, instalação e atualização desses pacotes. Instalação: https://packagecontrol.io/installation
 * Usando o **package control** instalar o plugin Emmet. Com o Sublime Text aberto: CTRL + SHIFT + P. Digite Package Control Install. Enfim, digite Emmet o pacote será instalado com sucesso. Reinicie a IDE.
 
+### Desenvolvimento na nuvem utilizando a ferramenta Cloud 9
+
+#### Criar uma conta no Cloud 9
+
+* https://c9.io/
+
+#### Preparar ambiente
+
+* https://community.c9.io/t/getting-started-with-laravel/1608
+
+#### Observações
+
+* Cloud9 é uma ferramenta de desenvolvimento web, e não um servidor de aplicações.
+* Quando você sair ou após algumas horas sem logar, a sua sessão é fechada e as páginas que antes poderiam ser acessadas através de uma URL, não estarão mais disponíveis.
+* Apresenta plano gratuito, mas pede cartão internacional para a criação de conta.
+
 ## TUTORIAL EM ANDAMENTO
