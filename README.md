@@ -44,14 +44,18 @@ Os commits seguirão o seguinte padrão:
 * Download: http://cmder.net/
 * Um terminal mais amigável. Recomendo.
 
-#### Instalar PHP
+#### PHP
 
 * TUTORIAL EM ANDAMENTO
 
-#### Instalar Composer
+#### Composer
 
 * Download: https://getcomposer.org/download/
 * Gerenciador de bibliotecas do PHP.
+
+#### Laravel
+
+* Download: https://laravel.com/docs/5.5
 
 ### Desenvolvimento na nuvem utilizando a ferramenta Cloud 9
 
