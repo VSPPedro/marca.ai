@@ -42,7 +42,7 @@ Os commits seguirão o seguinte padrão:
 #### Cmder (Opcional)
 
 * Download: http://cmder.net/
-* Um terminal mais amigável.
+* Um terminal mais amigável. Recomendo.
 
 #### Instalar PHP
 
