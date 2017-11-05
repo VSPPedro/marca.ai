@@ -50,7 +50,7 @@ Os commits seguirão o seguinte padrão:
 
 #### Instalar Composer
 
-* Download: https://getcomposer.org/
+* Download: https://getcomposer.org/download/
 * Gerenciador de bibliotecas do PHP.
 
 ### Desenvolvimento na nuvem utilizando a ferramenta Cloud 9
