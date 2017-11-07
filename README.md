@@ -63,7 +63,23 @@ Os commits seguirão o seguinte padrão:
 
 * https://c9.io/
 
-#### Preparar ambiente
+#### Criar um workspace para php no cloud 9 usando a conta criada
+
+#### Atualizar o PHP para versão 7.0
+
+* sudo add-apt-repository ppa:ondrej/php
+* sudo apt-get update
+* sudo apt-get install libapache2-mod-php7.0
+* sudo a2dismod php5
+* sudo a2enmod php7.0
+* service apache2 restart
+* sudo apt-get install php7.0-dom
+* sudo apt-get install php7.0-mbstring
+* sudo apt-get install php7.0-zip
+* sudo apt-get install php7.0-mysql
+* sudo apt-get install php7.0-sqlite
+
+#### Criar o projeto com laravel
 
 * https://community.c9.io/t/getting-started-with-laravel/1608
 
