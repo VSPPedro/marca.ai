@@ -83,6 +83,10 @@ Os commits seguirão o seguinte padrão:
 
 * https://community.c9.io/t/getting-started-with-laravel/1608
 
+#### Atualizar o mysql para a versão 5.6
+
+* https://community.c9.io/t/how-do-i-update-mysql-to-5-6-or-above/4885/5
+
 #### Observações
 
 * Cloud9 é uma ferramenta de desenvolvimento web, e não um servidor de aplicações.
